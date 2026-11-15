@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Academy",
+  "description": "An independent preparatory institution website crafted with luxury typography, featuring academic disciplines, admissions schedule, and private tour booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
